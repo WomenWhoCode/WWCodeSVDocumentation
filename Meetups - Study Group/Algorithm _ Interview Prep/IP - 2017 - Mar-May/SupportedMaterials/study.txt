@@ -1,0 +1,35 @@
+  Arrays
+
+<https://en.wikipedia.org/wiki/Array_data_structure>
+<http://www.geeksforgeeks.org/array/>
+
+  Strings
+
+<https://adriann.github.io/programming_problems.html>
+<https://www.careercup.com/page?pid=string-manipulation-interview-questions>
+
+  Lists
+
+<http://www.geeksforgeeks.org/data-structures/linked-list/>
+<https://adriann.github.io/programming_problems.html>
+
+  Stacks/Queues
+
+<https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>
+<https://en.wikipedia.org/wiki/Queue_(abstract_data_type)>
+<http://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/>
+
+  Trees
+
+<https://en.wikipedia.org/wiki/Tree_(data_structure)>
+<http://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/>
+
+  Graphs
+
+<https://en.wikipedia.org/wiki/Graph_(abstract_data_type)>
+<http://www.geeksforgeeks.org/graph-data-structure-and-algorithms/>
+
+  Dynamic Programming
+
+<https://en.wikipedia.org/wiki/Dynamic_programming>
+<http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming>
